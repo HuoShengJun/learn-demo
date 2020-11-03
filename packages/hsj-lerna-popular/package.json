@@ -1,6 +1,6 @@
 {
   "name": "hsj-lerna-popular",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hsj-lerna-core": "^1.0.0"
+    "hsj-lerna-core": "^1.0.1"
   },
   "gitHead": "94e1c47c0173fccce0b0a673d51d349d1f05cdae"
 }
